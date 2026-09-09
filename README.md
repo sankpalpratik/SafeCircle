@@ -2,6 +2,8 @@
 
 Offline-first emergency safety app for a small trusted group of Android users.
 
+> CI validation branch.
+
 ## What is implemented
 
 - Large SOS button with a 5-second cancellation window.
